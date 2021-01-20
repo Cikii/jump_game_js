@@ -45,7 +45,6 @@
     top: 110px;
     left: 580px;
     background-image: url(img/prekazka.png);
-
     animation: pr 1s infinite linear;
 }
 
@@ -56,4 +55,17 @@
     100%{
         left:-20px ;
     }
+}
+
+footer{
+    position: relative;
+    top: 350px;
+    height: 70px;
+    margin-bottom: 0;
+}
+
+#time{
+    position: relative;
+    left: 270px;
+    width: 75px;
 }
